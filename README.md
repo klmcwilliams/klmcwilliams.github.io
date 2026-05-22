@@ -1,6 +1,3 @@
-# Katie L. McWilliams
-### Geographer & Geospatial Project Lead | International Development Professional
-
 📍 Washington, DC-Baltimore Area  
 💼 Currently at **The World Bank** (Geospatial Operations Support Team)  
 🎓 M.A. in Geography | The George Washington University
