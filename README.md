@@ -37,11 +37,11 @@ I am a passionate and results-driven Geographer with over 16 years of experience
 
 ## 🗺️ Featured Geospatial Projects
 
-| Project Name | Description | Tools & Tech | View Project |
+| Project Name | Description | Tools & Tech | Project Links |
 |---|---|---|---|
 | **Health Accessibility** | Toolkit to calculate accessibility metrics and companion eLearning course introducing the concepts of travel time and access. | Python, GitHub | [View Repository 🔗](https://worldbank.github.io/Health-Access-Metrics/README.html) | [View eLearning Course 🔗](https://wbg.edcast.com/insights/ECL-452547cc-7c5e-48f1-bec4-d633a8497e9c)
 | **FCV Geospatial Tools** | Using remote sensing, drone, and mobile phone technology in fragile contexts. | Remote Sensing, GIS | [View Blog 🔗](https://blogs.worldbank.org/opendata/enhancing-fcv-operations-geospatial-ict-tools-new-world-bank-online-course-explores-use) | [View Course Webpage 🔗](https://worldbank.github.io/GeospatialFCVcollateral/) | [View Interactive eLearning Course 🔗](https://wbg.edcast.com/insights/enhancing-fcv-operations-with-geospatial-ict-tools) 
-| **Global Administrative Boundaries** | Official global administrative boundaries available for public use. | Python, GIS, Cartography | [View Blog 🔗](https://blogs.worldbank.org/en/opendata/mapping-progress--how-the-world-bank-is-improving-access-to-glob) | [View Data 🔗](https://datacatalog.worldbank.org/search/dataset/0038272/World-Bank-Official-Boundaries) | [View Issue Tracker 🔗](https://github.com/worldbank/WB_GAD/issues)
+| **Global Administrative Boundaries** | Official global administrative boundaries available for public use. | GIS, Cartography | [View Blog 🔗](https://blogs.worldbank.org/en/opendata/mapping-progress--how-the-world-bank-is-improving-access-to-glob) | [View Data 🔗](https://datacatalog.worldbank.org/search/dataset/0038272/World-Bank-Official-Boundaries) | [View Issue Tracker 🔗](https://github.com/worldbank/WB_GAD/issues)
 
 ---
 
