@@ -40,7 +40,7 @@ I am a passionate and results-driven Geographer with over 16 years of experience
 | Project Name | Description | Tools & Tech | View Project |
 |---|---|---|---|
 | **Health Accessibility** | Toolkit to calculate accessibility metrics and companion eLearning course introducing the concepts of travel time and access. | Python, GitHub | [View Repository 🔗](https://worldbank.github.io/Health-Access-Metrics/README.html) | [View eLearning Course 🔗](https://worldbank.github.io/Health-Access-Metrics/README.html) |
-| **FCV Geospatial Innovation** | Remote sensing and drone imagery processing to analyze infrastructure change in fragile contexts. | Remote Sensing, GIS | [View Blog 🔗](https://blogs.worldbank.org/opendata/enhancing-fcv-operations-geospatial-ict-tools-new-world-bank-online-course-explores-use) | [View Course Webpage 🔗](https://worldbank.github.io/GeospatialFCVcollateral/) | [View Interactive eLearning Course 🔗](https://wbg.edcast.com/insights/enhancing-fcv-operations-with-geospatial-ict-tools) 
+| **FCV Geospatial Tools** | Using remote sensing, drone, and mobile phone technology in fragile contexts. | Remote Sensing, GIS | [View Blog 🔗](https://blogs.worldbank.org/opendata/enhancing-fcv-operations-geospatial-ict-tools-new-world-bank-online-course-explores-use) | [View Course Webpage 🔗](https://worldbank.github.io/GeospatialFCVcollateral/) | [View Interactive eLearning Course 🔗](https://wbg.edcast.com/insights/enhancing-fcv-operations-with-geospatial-ict-tools) 
 | **Global Administrative Boundaries** | Official global administrative boundaries available for public use. | Python, GIS, Cartography | [View Data 🔗](https://datacatalog.worldbank.org/search/dataset/0038272/World-Bank-Official-Boundaries) | [View Issue Tracker 🔗](https://github.com/worldbank/WB_GAD/issues)
 
 ---
@@ -54,6 +54,7 @@ I am a passionate and results-driven Geographer with over 16 years of experience
 *   **Bachelor of Science in Geography**  
     *Ball State University*  
     *Focus: Meteorology, Climatology, and GIS*
+    
 ---
 
 ## 📬 Connect With Me
